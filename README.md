@@ -1,5 +1,3 @@
-# prework-study-guide
-Prework study guide for northwestern bootcamp
 # Prework Study Guide Webpage
 
 ## Description
@@ -18,6 +16,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 N/A
+
+
 
 ## Usage
 
